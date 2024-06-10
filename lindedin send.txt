@@ -1,6 +1,6 @@
-1 	microsoft
+1	microsoft
 2	google
-3	amzon
+3	amazon
 4	facebook
 5	coursera
 6	apple
